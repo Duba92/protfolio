@@ -33,20 +33,7 @@ A polished, responsive personal portfolio built with **HTML, CSS, and vanilla Ja
 5. Leave the build command and output directory empty, then deploy.
 6. Open the deployed URL and test all navigation and project links on desktop and mobile.
 
-## Personal details to check before submission
 
-- Confirm the displayed study year and internship status are still accurate.
-- Review every project description and live URL.
-- Add an email address or GitHub profile link only after confirming the correct public URL. The current contact section uses the LinkedIn profile link already supplied.
-- Replace any information that has changed before making the site public.
-
-## Internship submission checklist
-
-- [ ] Upload the project source to GitHub.
-- [ ] Deploy the portfolio and test the live link.
-- [ ] Test the mobile navigation and all external project links.
-- [ ] Record a short video explaining the portfolio and include the live URL.
-- [ ] Submit through the official CodeOrbit Tech submission form shared in the WhatsApp group.
 
 ---
 
