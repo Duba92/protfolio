@@ -1,0 +1,54 @@
+# CodeOrbit Tech — Task 1: Personal Portfolio Website
+
+A polished, responsive personal portfolio built with **HTML, CSS, and vanilla JavaScript**, as required by the CodeOrbit Tech Web Development Internship task.
+
+## Included sections
+
+- Home / introduction
+- About Me
+- Skills and tools
+- Internship experience and education
+- Selected projects with live links
+- Contact section linking to LinkedIn
+
+## Technology
+
+- HTML5 semantic structure
+- CSS3 (Grid, Flexbox, responsive media queries, animations)
+- Vanilla JavaScript (mobile navigation, current year, scroll reveal)
+- No framework or build tool required
+
+## Run locally
+
+1. Extract the ZIP file.
+2. Open `index.html` in a browser.
+3. For local development, you can also use the VS Code Live Server extension or any static file server.
+
+## Publish with GitHub and Vercel
+
+1. Create a new GitHub repository named `CodeOrbit-Personal-Portfolio`.
+2. Upload the contents of this folder (`index.html`, `style.css`, `script.js`, and `assets/`).
+3. Open [Vercel](https://vercel.com/) and sign in with GitHub.
+4. Select **Add New → Project**, import the repository, and keep the framework preset as **Other**.
+5. Leave the build command and output directory empty, then deploy.
+6. Open the deployed URL and test all navigation and project links on desktop and mobile.
+
+## Personal details to check before submission
+
+- Confirm the displayed study year and internship status are still accurate.
+- Review every project description and live URL.
+- Add an email address or GitHub profile link only after confirming the correct public URL. The current contact section uses the LinkedIn profile link already supplied.
+- Replace any information that has changed before making the site public.
+
+## Internship submission checklist
+
+- [ ] Upload the project source to GitHub.
+- [ ] Deploy the portfolio and test the live link.
+- [ ] Test the mobile navigation and all external project links.
+- [ ] Record a short video explaining the portfolio and include the live URL.
+- [ ] Submit through the official CodeOrbit Tech submission form shared in the WhatsApp group.
+
+---
+
+**Project owner:** Duba Dida  
+**Task:** Personal Portfolio Website — CodeOrbit Tech Web Development Internship
